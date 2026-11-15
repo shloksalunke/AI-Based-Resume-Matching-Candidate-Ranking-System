@@ -36,9 +36,9 @@ The scoring engine is deterministic and runs fully offline. It combines rule-bas
 
 ## Architecture
 
-<div align="center">
-  <img src="./docs/architecture.png" alt="System architecture" width="100%" />
-</div>
+<p align="center">
+  <img src="docs/architecture.png" alt="System Architecture" width="100%" />
+</p>
 
 **Request flow**
 
