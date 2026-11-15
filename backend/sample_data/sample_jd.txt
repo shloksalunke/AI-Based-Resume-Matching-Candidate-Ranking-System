@@ -1,0 +1,20 @@
+Job Title: Java Spring Boot Developer
+Location: Remote / Hybrid
+Experience Level: 3+ years
+
+About the Role:
+We are looking for an experienced Java Spring Boot Developer to join our backend engineering team. In this role, you will design, develop, and maintain high-performance microservices, REST APIs, and database integrations.
+
+Requirements / Must Have:
+- 3+ years of professional software engineering experience
+- Strong proficiency in Java and Spring Boot framework
+- Experience designing and building REST APIs and microservices
+- Hands-on experience with relational databases (PostgreSQL or MySQL)
+- Practical knowledge of Docker containerization and Git version control
+- Bachelor's degree (B.Tech / B.E. / B.S.) in Computer Science, Information Technology, or related engineering discipline
+
+Nice to Have / Preferred Qualifications:
+- Experience with Cloud platforms (AWS or GCP or Azure)
+- Familiarity with Kubernetes, Kafka, Redis caching, or CI/CD pipelines
+- Exposure to unit and integration testing with JUnit and Mockito
+- Solid understanding of Agile / Scrum methodologies
